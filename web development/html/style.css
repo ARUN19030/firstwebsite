@@ -1,0 +1,28 @@
+div{
+  background-color:#e4f9f5 ;
+padding: 100px;
+  position: relative;
+}
+body{
+
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin: 0,auto;
+  font:<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" >
+}
+h2{
+  margin: 0,auto;
+}
+
+.top_cloud{
+  position: absolute;
+  right: 300px;
+top: 50px;
+}
+.bottom_cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
